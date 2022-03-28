@@ -1,0 +1,48 @@
+Banten
+Tangerang, Banten
+Serpong, Banten
+Jakarta
+Central Jakarta, Jakarta
+West Jakarta, Jakarta
+East Jakarta, Jakarta
+South Jakarta, Jakarta
+North Jakarta, Jakarta
+West Java
+Bandung, West Java
+Bogor, West Java
+Puncak, West Java
+Cirebon, West Java
+Garut, West Java
+Ciwidey, West Java
+Bekasi, West Java
+Pangandaran, West Java
+Sukabumi, West Java
+Cibodas, West Java
+Padalarang, West Java
+Purwakarta, West Java
+Tasikmalaya, West Java
+Kuningan, West Java
+Central Java
+Semarang, Central Java
+Magelang, Central Java
+Surakarta, Central Java
+Demak, Central Java
+Pekalongan, Central Java
+Yogyakarta
+Sleman, Yogyakarta
+Bantul, Yogyakarta
+East Java
+Malang, East Java
+Surabaya, East Java
+Banyuwangi, East Java
+Bali
+Ubud, Bali
+Nusa Dua, Bali
+Kutai, Bali
+Tabanan, Bali
+Gianyar, Bali
+Buleleng, Bali
+Karangasem, Bali
+Seminyak, Bali
+Uluwatu, Bali
+Denpasar, Bali
